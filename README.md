@@ -1,5 +1,8 @@
 ## Remotion + Railway Starter
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1838b517-8563-4398-b537-005e26052d38" />
+
+
 Minimal starter to render Remotion videos via an Express server and deploy on Railway.
 
 ### Deploy with Railway
