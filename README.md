@@ -2,6 +2,10 @@
 
 Minimal starter to render Remotion videos via an Express server and deploy on Railway.
 
+### Deploy with Railway
+
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/aW47_j?referralCode=CREDITS)
+
 ### Quickstart (local)
 - Install: `npm install`
 - Dev server: `npm run dev`
